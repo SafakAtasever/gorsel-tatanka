@@ -8,7 +8,7 @@ Bu doküman, Hastane Uygulaması'nın kurulumu ve kullanımı ile ilgili adımla
 
 ## 2. AccessDatabaseEngine Kurulumu
 
-Programa giriş yaparken "Microsoft.ACE.OLEDB.12.0" hatası ile karşılaşabilirsiniz. Bu hata, veri tabanına erişim sorunu yaşandığını gösterir. Bu nedenle, **AccessDatabaseEngine** programını indirip kurmanız gerekmektedir.
+Programa giriş yaparken "Microsoft.ACE.OLEDB.12.0" hatası ile karşılaşabilirsiniz. Bu hata, veri tabanına erişim sorunu yaşandığını gösterir. Bu nedenle, proje dosyalarında **AccessDatabaseEngine** programını kurmanız gerekmektedir.
 
 ## 3. Programın Yönetici İzinleri ile Çalıştırılması
 
